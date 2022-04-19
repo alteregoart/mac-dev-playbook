@@ -1,0 +1,10 @@
+visual_studio_code_extensions:
+  - octref.vetur
+  - dbaeumer.vscode-eslint
+  - donjayamanne.githistory
+  - Syler.sass-indented
+  - rangav.vscode-thunder-client
+  - eamodio.gitlens
+  - EditorConfig.EditorConfig
+  - 2gua.rainbow-brackets
+
