@@ -83,6 +83,7 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - syncthing
   - firefox
   - google-chrome
   - slack
@@ -94,7 +95,6 @@ homebrew_cask_apps:
   - handbrake
   - licecap
   - transmit
-  - vagrant
   - visual-studio-code
   - adobe-acrobat-reader
   - iterm2
