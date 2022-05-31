@@ -99,6 +99,8 @@ homebrew_cask_apps:
   - visual-studio-code
   - adobe-acrobat-reader
   - iterm2
+  - rectangle
+  - maccy
 
 
 
