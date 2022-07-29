@@ -76,6 +76,8 @@ homebrew_installed_packages:
   - zsh-syntax-highlighting
   - zsh-history-substring-search
   - terraform
+  - helm
+  - kubectl
 
 
 homebrew_taps:
