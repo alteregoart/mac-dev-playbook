@@ -75,6 +75,7 @@ homebrew_installed_packages:
   - zsh-completions
   - zsh-syntax-highlighting
   - zsh-history-substring-search
+  - terraform
 
 
 homebrew_taps:
