@@ -104,6 +104,8 @@ homebrew_cask_apps:
   - iterm2
   - rectangle
   - maccy
+  - the-unarchiver
+  - karabiner-elements
 
 
 
