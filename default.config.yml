@@ -68,7 +68,6 @@ homebrew_installed_packages:
   - wget
   - wrk
   - mongodb-community
-  - mongodb-compass
   - tmux
   - zsh
   - zsh-autosuggestions
@@ -94,6 +93,7 @@ homebrew_cask_apps:
   - keepassxc
   - chromedriver
   - docker
+  - mongodb-compass
   - libreoffice
   - dropbox
   - handbrake
