@@ -89,7 +89,7 @@ homebrew_cask_apps:
   - syncthing
   - firefox
   - google-chrome
-  - slack
+  - discord
   - keepassxc
   - chromedriver
   - docker
