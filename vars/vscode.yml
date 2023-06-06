@@ -1,5 +1,5 @@
 visual_studio_code_extensions:
-  - octref.vetur
+  - Vue.volar
   - dbaeumer.vscode-eslint
   - donjayamanne.githistory
   - Syler.sass-indented
@@ -10,4 +10,5 @@ visual_studio_code_extensions:
   - yoavbls.pretty-ts-errors
   - gitlab.gitlab-workflow
   - ms-vsliveshare.vsliveshare
+  - redhat.vscode-yaml
   
