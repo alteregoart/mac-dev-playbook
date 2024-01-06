@@ -58,7 +58,6 @@ homebrew_installed_packages:
   - httpie
   - iperf
   - libevent
-  - mcrypt
   - nmap
   - nvm
   - ssh-copy-id
