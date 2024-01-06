@@ -52,7 +52,7 @@ homebrew_installed_packages:
   - gettext
   - gifsicle
   - git
-  - github/gh/gh
+  - gh
   - go
   - gpg
   - httpie
@@ -80,8 +80,6 @@ homebrew_installed_packages:
 
 
 homebrew_taps:
-  - homebrew/core
-  - homebrew/cask
   - mongodb/brew
 
 homebrew_cask_appdir: /Applications
@@ -108,7 +106,6 @@ homebrew_cask_apps:
   - karabiner-elements
   - aircall
   - notion
-
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
