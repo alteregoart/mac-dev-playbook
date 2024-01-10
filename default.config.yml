@@ -52,6 +52,7 @@ homebrew_installed_packages:
   - gettext
   - gifsicle
   - git
+  - git-lfs
   - gh
   - go
   - gpg
