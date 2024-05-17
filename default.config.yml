@@ -27,6 +27,7 @@ dockitems_remove:
   - Musique
   - 'App Store'
   - 'Sytem Preferences'
+  - Freeform
 dockitems_persist:
   - name: "Firefox"
     path: "/Applications/Firefox.app/"
